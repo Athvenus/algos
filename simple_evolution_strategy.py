@@ -1,27 +1,29 @@
 import random
+import sys
+
 
 POP_SIZA = 1000
 
 def random_pack():
-    return
+    return s_i
   
 def initialize():
-    return
+    return delta_0
   
-def select():
-    return
+def select(Pg):
+    return sp
   
-def adjust():
-    return
+def adjust(delta_g):
+    return delta_g_1
   
-def insert():
-    return
+def insert(sc):
+    return P_g_1
   
-def search():
-    return
+def search(s_g,delta_g_1):
+    return s_c
   
-def merge():
-    return
+def merge(Pg,Pg_1):
+    return 
   
 def main():
     return
