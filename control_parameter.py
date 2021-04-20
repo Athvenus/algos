@@ -1,3 +1,6 @@
+import numpy as np
+import os
+
 
 def alpha_1():
     return 0
